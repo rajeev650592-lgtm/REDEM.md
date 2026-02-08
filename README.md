@@ -1,4 +1,4 @@
-# REDEM.md
+# README.md
 # 🔐 Password Strength Analyzer
 **Professional Cybersecurity Tool | Zero Dependencies**
 
